@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nandanhs006
+- 👋 Hi, I’m Nandan
 - 👀 I’m interested in Fullstack web developing
 - 🌱 I’m currently learning DSA and Javascript
 - 💞️ I’m looking to collaborate on any entry level web dev projects
