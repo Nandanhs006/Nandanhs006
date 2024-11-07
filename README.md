@@ -2,35 +2,7 @@
 - 👀 I’m interested in Fullstack web developing
 - 🌱 I’m currently learning DSA and Javascript
 - 💞️ I’m looking to collaborate on any entry level web dev projects
-- 📫  Connect with me on LinkedIn-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LinkedIn Button</title>
-    <style>
-        .linkedin-button {
-            background-color: #0073b1;
-            color: white;
-            padding: 10px 20px;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-            transition: background-color 0.3s;
-        }
-        .linkedin-button:hover {
-            background-color: #005582;
-        }
-    </style>
-</head>
-<body>
-    <button class="linkedin-button"
-            onclick="window.location.href='https://in.linkedin.com/in/nandan-h-s-186551296';">
-        Visit LinkedIn Profile
-    </button>
-</body>
-</html>
+- 📫  Connect with me on LinkedIn- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0073b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/nandan-h-s-186551296)
 
 
 - 😄 Pronouns: He/him
