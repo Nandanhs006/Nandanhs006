@@ -6,7 +6,7 @@
          [![LinkedIn](https://img.shields.io/badge/LinkedIn-0073b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/nandan-h-s-186551296)
 
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I once played 87 chess games online without breaks
+- ⚡ Fun fact: If everything went as i planned i'd be a doctor but here I am:/
 
 <!---
 Nandanhs006/Nandanhs006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
