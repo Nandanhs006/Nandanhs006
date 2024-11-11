@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nandan
+- 👋 Hi, I’m Nandan, a cse undergrad.
 - 👀 I’m interested in learning Fullstack web developing
 - 🌱 I’m currently learning DSA and HTML
 - 📫  Connect with me on LinkedIn-
